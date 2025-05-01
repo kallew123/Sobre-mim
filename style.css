@@ -2,8 +2,9 @@ body {
     font-family: Arial, sans-serif;
     background-color: white;
     color: grey;
-    margin: 0;
+    margin: 100px;
     padding: 0;
+    text-align: center;
   }
   
   .container {
